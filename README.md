@@ -5,5 +5,5 @@
   
   
 👨‍💻 24 years old, tinkering with technology  
-👨‍🎓 US computer science graduate, specializing in programming and cyber-security.  
+👨‍🎓 US computer science graduate, specializing in programming, cyber-security, and information technology.  
 🚧 **Current Project:** Looking for a job!
