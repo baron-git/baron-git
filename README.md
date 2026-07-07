@@ -6,4 +6,4 @@
   
 👨‍💻 24 years old, tinkering with technology  
 👨‍🎓 US computer science graduate, specializing in programming, cyber-security, and information technology.  
-🚧 **Current Project:** Looking for a job!
+🚧 **Current Project:** Working in IT and on [eephus.io](https://eephus.io)
